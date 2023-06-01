@@ -5,6 +5,7 @@
 ### -- Possuí um banco com 3 entidades: cliente, pedido e produto.
 ### -- Possuí o CRUD — requisições http post, get (all e byId), put e delete — para cada uma das entidades e relacinamentos entre elas.
 ### -- Possuí um sistema que envia emails de confirmação quando ocorre um novo cadastro.
+### -- Possuí um packet Config com uma class SwaggerConfig com configurações para uso do swagger.
 <br/>
 <br/>
 
@@ -13,6 +14,7 @@
 ### -- Possuí um banco com 3 entidades: usuário, pedido e produto.
 ### -- Possuí o CRUD — requisições http post, get (all e byId), put e delete — para cada uma das entidades e relacinamentos entre elas.
 ### -- Possuí um sistema que envia emails de confirmação quando ocorre um novo cadastro.
+### -- Possuí um packet Config com uma class SwaggerConfig com configurações para uso do swagger.
 <br/>
 <br/>
 
@@ -21,3 +23,4 @@
 ### -- Possuí um banco com 3 entidades: usuário, pedido e produto.
 ### -- Possuí o CRUD — requisições http post, get (all e byId), put e delete — para cada uma das entidades e relacinamentos entre elas.
 ### -- Possuí um sistema que envia emails de confirmação quando ocorre um novo cadastro.
+### -- Possuí um packet Config com uma class SwaggerConfig com configurações para uso do swagger.
