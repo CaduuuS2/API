@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "veiculo.swagger.dev-url",
+    "type": "java.lang.String",
+    "description": "A description for 'veiculo.swagger.dev-url'"
+  },
+  {
+    "name": "api.swagger.dev-url",
+    "type": "java.lang.String",
+    "description": "A description for 'api.swagger.dev-url'"
+  }
+]}
